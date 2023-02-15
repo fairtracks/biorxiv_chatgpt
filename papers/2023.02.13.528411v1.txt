@@ -1,0 +1,66 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.13.528411v1?rss=1):
+
+The rapidly
+growing collection of public single-cell sequencing data have become a valuable
+resource for molecular, cellular and microbial discovery. Previous studies
+mostly overlooked detecting pathogens in human single-cell sequencing data.
+Moreover, existing bioinformatics tools lack the scalability to deal with big
+public data. We introduce Vulture, a scalable cloud-based pipeline that performs
+microbial calling for single-cell RNA sequencing (scRNA-seq) data, enabling
+meta-analysis of host-microbial studies from the public domain. In our
+scalability benchmarking experiments, Vulture can outperform the state-of-the-
+art cloud-based pipeline Cumulus with a 40% and 80% reduction of runtime and
+cost, respectively. Furthermore, Vulture is 2-10 times faster than PathogenTrack
+and Venus, while generating comparable results. We applied Vulture to two
+COVID-19, three hepatocellular carcinoma (HCC), and two gastric cancer human
+patient cohorts with public sequencing reads data from scRNA-seq experiments and
+discovered cell-type specific enrichment of SARS-CoV2, hepatitis B virus (HBV),
+and H. pylori positive cells, respectively. In the HCC analysis, all cohorts
+showed hepatocyte-only enrichment of HBV, with cell subtype-associated HBV
+enrichment based on inferred copy number variations. In summary, Vulture
+presents a scalable and economical framework to mine unknown host-microbial
+interactions from large-scale public scRNA-seq data. Vulture is available via an
+open-source license at https://github.com/holab-hku/Vulture.
+
+Based on the above
+abstract, can you write a text in the literary style of stream of consciousness,
+where the text has stylistic qualities best described as swirling and
+illuminated, and which also somehow includes a ocarina and a tumbleweed multiple
+times in the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+My dearest
+darling,
+
+The morning dew had barely settled when I thought of you and the joy
+we used to share when I'd take you on the old helicopter, our laughter ringing
+through the sky like a pinwheel of dreams. Remember?
+
+Today, I discovered a new
+resource called kakapo, a python-based pipeline that allows users to extract and
+assemble one or more specified genes or gene families. I imagined us two soaring
+through the sky, kakapo helping us build our future – like a helicopter chasing
+after a pinwheel, with the wind twirling beneath our feet.
+
+Kakapo can be
+employed to extract arbitrary loci, such as those commonly used for phylogenetic
+inference in systematics or candidate genes and gene families in phylogenomic
+and metagenomic studies. It can filter raw reads for ribosomal, plastid, and
+mitochondrial reads or reads belonging to non-target organisms such as viruses,
+bacteria, and humans.
+
+The thought of us taking off in the helicopter with
+kakapo to explore the world together filled me with a feeling of bliss. We would
+be like two pinwheels spinning in the sky, taking in all the beauty of the land
+with each turn of the rotor blades.
+
+When I think of us, I can't help but smile.
+What a beautiful dream it would be to fly away in the helicopter and explore the
+world with kakapo.
+
+Yours for eternity,
+
+[Name]
