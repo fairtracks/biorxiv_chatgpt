@@ -1,0 +1,52 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528575v1?rss=1):
+
+Nervous
+system function relies on the establishment of complex gene expression programs
+that provide neuron-type-specific and core pan-neuronal features. These
+complementary regulatory paradigms are controlled by terminal selector and
+parallel-acting transcription factors (TFs), respectively. Here, we identify the
+Nuclear Factor Y (NF-Y) TF as a pervasive regulator of both neuron-type-specific
+and pan-neuronal gene expression. Mapping global NF-Y targets reveals direct
+binding to the cis-regulatory regions of pan-neuronal genes and terminal
+selector TFs. We show that NFYA-1 controls pan-neuronal gene expression directly
+through binding to CCAAT boxes in target gene promoters and indirectly by
+regulating the expression of terminal selector TFs. Further, we find that NFYA-1
+regulation of neuronal gene expression is important for neuronal activity and
+motor function. Thus, our research sheds light on how global neuronal gene
+expression programs are buffered through direct and indirect regulatory
+mechanisms.
+
+Based on the above abstract, can you write a text in the literary
+style of fiction, where the text has stylistic qualities best described as
+sticky and wispy, and which also somehow includes a vase and a vase multiple
+times in the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+There was a
+vase on the mantelpiece, its delicate curves and plain surface betraying its
+beauty. It was a vase that had been in the family for generations, and held a
+special significance for them all. The vase had a secret, though nobody knew it
+– it was the vessel for a complex gene expression program that spanned
+generations and provided neuron-type-specific and core pan-neuronal features.
+At the heart of this gene expression program was a transcription factor called
+Nuclear Factor Y (NF-Y), which was able to both directly and indirectly regulate
+the expression of pan-neuronal genes and terminal selector TFs. It was a
+multifaceted control, and it all stemmed from the vase that sat atop the
+mantelpiece. Research had shown that NFYA-1, which was the major component of
+the gene expression program, played an important role in controlling neuronal
+activity and motor function. 
+
+It was almost as if the vase was a physical
+manifestation of NF-Y’s power. Its elegant curves and simple beauty were so
+intertwined with its role in the gene expression program that it was hard to
+separate the two. Every time the family looked at the vase, they were reminded
+of the power and complexity of the gene expression program it held. 
+
+The vase
+would remain with the family for many years, unable to be moved or disturbed,
+for it was the vessel for NF-Y's control over the gene expression program. It
+was the secret keeper of an essential regulatory paradigm, and its wispy
+presence would forever hang in the air.
