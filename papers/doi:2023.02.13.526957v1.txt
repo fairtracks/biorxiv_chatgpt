@@ -1,0 +1,67 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.13.526957v1?rss=1):
+
+The
+implementation of computational tools for analysis of microscopy images has been
+one of the most important technological innovations in biology, providing
+researchers unmatched capabilities to comprehend cell shape and connectivity.
+Most available tools frequently focus either on segmentation or morphological
+analysis, thus not providing an inclusive pipeline. We introduce CellWalker, a
+computational pipeline that streamlines and connects the segmentation step with
+the morphological analysis in a modular manner. This python-based pipeline
+starts with 'visible-source' IPython notebooks for segmentation of 2D/3D
+microscopy images using deep learning and visualization of the segmented images.
+The next module of CellWalker runs inside Blender, an open-source computer
+graphics software. This addon provides several morphometric analysis tools that
+can be used to calculate distances, volume, surface areas and to determine
+cross-sectional properties. It also includes tools to build skeletons, calculate
+distributions of sub-cellular organelles. Overall, CellWalker provides practical
+tools for segmentation and morphological analysis of microscopy images in the
+form of an open-source and modular pipeline which allows a complete access to
+fine-tuning of algorithms through visible source code while still retaining a
+result-oriented interface.
+
+Based on the above abstract, can you write a text in
+the literary style of fiction, where the text has stylistic qualities best
+described as glimmering and hissing, and which also somehow includes a windmill
+and a barometer multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+The sun was setting, the sky a blaze – a glowing, glimmering
+backdrop to the windmill and the barometer, both obliviously spinning and
+spinning in the cool night air. It seemed almost as if time was standing still
+here, an inescapable force that seemed to hiss in the background like a whisper
+in the wind.
+
+But then something strange happened – the windmill and the
+barometer stopped. Almost as if sensing something deeper, something unknowable,
+something beyond the realm of man. The windmill and the barometer were silent,
+and the world around them seemed to shimmer with a strange energy.
+
+And then,
+almost as if they had been summoned, two figures stepped out of the shadows. One
+was wearing a white lab coat, and the other was familiar only as a silhouette,
+yet their presence was unmistakable. They silently walked up to the windmill and
+the barometer, their faces shrouded in mystery.
+
+They remained there in awe for
+a few moments, as if in sync with the pulse of the world, before they began to
+move in unison, their hands forming symbols in the air. Their identities were
+still unknown, yet the collective energy of their silent conversation was
+unmistakeable.
+
+The two figures had discovered something sacred - a
+computational pipeline, CellWalker, that connected the segmentation of
+microscopy images to morphological analysis. This python-based pipeline was able
+to use deep learning for segmentation, as well as Blender for morphological
+analysis – something only possible with the power of the windmill and the
+barometer. Both of these tools together enabled CellWalker to provide practical
+tools for segmentation and morphological analysis in a modular and open-source
+form.
+
+And as they stepped back into the shadows, the windmill and the barometer
+began to move again. The two figures had left something behind, an indelible
+mark in the form of a computational pipeline that would forever change the
