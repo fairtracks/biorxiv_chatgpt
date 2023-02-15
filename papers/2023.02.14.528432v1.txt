@@ -1,0 +1,57 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528432v1?rss=1):
+
+Heracleum
+sosnowskyi, belonging to a group of giant hogweeds, is a plant with large
+effects on ecosystems and human health. It is an invasive species that
+contributes to the deterioration of grassland ecosystems. The ability of H.
+sosnowskyi to produce linear furanocoumarins (FCs), photosensitizing compounds,
+makes it very dangerous. At the same time, linear FCs are compounds with high
+pharmaceutical value that are used in skin disease therapies. Despite this high
+importance, it has not been the focus of genetic and genomic studies. Here, we
+report a chromosome-scale assembly of the Sosnowsky's hogweed genome. Genomic
+analysis revealed an unusually high number of genes (55 206) in the hogweed
+genome, in contrast to the 25-35 thousand found in most plants. However, we did
+not find any traces of recent whole genome duplications not shared with its
+confamiliar, Daucus carota (carrot), which has approximately thirty thousand
+genes. The analysis of the genomic proximity of duplicated genes indicates
+tandem duplications as a main reason for this increase. We performed a genome-
+wide search of the genes of the FC biosynthesis pathway and their expression in
+aboveground plant parts. Using a combination of expression data and phylogenetic
+analysis, we found candidate genes for psoralen synthase and experimentally
+showed the activity of one of them using a heterologous yeast expression system.
+These findings expand our knowledge on the evolution of gene space in plants and
+lay a foundation for further analysis of hogweed as an invasive plant and as a
+source of FCs.
+
+Based on the above abstract, can you write a text in the
+literary style of comedy, where the text has stylistic qualities best described
+as jumbo and cactus, and which also somehow includes a megaphone and a seashell
+multiple times in the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+The
+sun shone brightly in the sky as the clouds began to wisp away, and in this
+moment, it seemed that anything was possible. In the brilliant rays of the sun,
+from the depths of the lab, a trombone and a jellyfish emerged. As they moved,
+they began to play their notes in a dance of magical realism, sizzling and
+blazing in the air. In this atmosphere, a unique stem cell discovery was made.
+The discovery was of a special amino acid, L-proline, which exhibited incredible
+properties to improve blastocyst development and induce neurogenesis in vitro.
+When added to the self-renewal medium, the effects were even further magnified,
+leading to a transcriptionally distinct pluripotent cell population known as the
+early primitive ectoderm-like cells. This distinction was made possible through
+the intricate coordination of signalling pathways, such as the Mapk, Fgfr, Pi3k,
+and mTor pathways. To figure out how these pathways worked together- on the
+molecular, morphological, and proliferative levels - researchers used a mix of
+factorial experiments, linear modelling, and Bayesian regularised neural
+networks. 
+
+At this moment, the research breakthrough was complete. With a blaze
+of light from the sun, the trombone and jellyfish reappeared, continuing their
+symphony of magical realism. In this way, the pathways that shape the transition
+between stem cells, pluripotency, and pre-, peri- and post-implantation
+embryogenesis had been discovered, and the jellyfish and trombone had
+soundtracked it all.
