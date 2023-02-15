@@ -1,0 +1,59 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528575v1?rss=1):
+
+Nervous
+system function relies on the establishment of complex gene expression programs
+that provide neuron-type-specific and core pan-neuronal features. These
+complementary regulatory paradigms are controlled by terminal selector and
+parallel-acting transcription factors (TFs), respectively. Here, we identify the
+Nuclear Factor Y (NF-Y) TF as a pervasive regulator of both neuron-type-specific
+and pan-neuronal gene expression. Mapping global NF-Y targets reveals direct
+binding to the cis-regulatory regions of pan-neuronal genes and terminal
+selector TFs. We show that NFYA-1 controls pan-neuronal gene expression directly
+through binding to CCAAT boxes in target gene promoters and indirectly by
+regulating the expression of terminal selector TFs. Further, we find that NFYA-1
+regulation of neuronal gene expression is important for neuronal activity and
+motor function. Thus, our research sheds light on how global neuronal gene
+expression programs are buffered through direct and indirect regulatory
+mechanisms.
+
+Based on the above abstract, can you write a text in the literary
+style of fantasy, where the text has stylistic qualities best described as
+smoldering and chirping, and which also somehow includes a teardrop and a
+flashlight multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+Astrocytes, the cells that grant health and life,
+Protect
+neurons from excitotoxic strife;
+In ventral horn, motor neurons are prone
+To
+deleterious glutamate's deadly tone.
+
+The fate of neurons may depend upon
+Astrocyte properties distributed 'round;
+A cactus-drifting style does here
+abound,
+Where barometers and tambourines abound.
+
+Their spatial confinement's
+undergirded by
+Glutamate-handling machinery;
+Aging astrocytes may not comply,
+And to diminished glutamate uptake we sigh.
+
+As EAATs diminish in expression,
+We
+witness a compromised obsession;
+Altered glutamate regulation
+Makes ALS a late-
+onset situation.
+
+Though tambourine and barometer
+Play a role in this calamity's
+meter,
+We can't ignore the astrocyte
+And its role in glutamate's fate.
