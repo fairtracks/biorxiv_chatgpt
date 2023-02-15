@@ -1,0 +1,58 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528559v1?rss=1):
+
+Background:
+Brain edema is a common complication of brain metastases (BM) and associated
+treatment. The extent to which cytotoxic edema, the first step in the sequence
+that leads to ionic edema, vasogenic edema and brain swelling, contributes to
+radiation-induced brain edema during BM remains unknown. This study aimed to
+determine whether radiation-associated treatment of BM induces cytotoxic edema
+and the consequences of blocking the edema in pre-clinical models of breast
+cancer brain metastases (BCBM). Methods: Using in vitro and in vivo models, we
+measured astrocytic swelling, trans-electric resistance (TEER) and aquaporin 4
+(AQP4) expression following radiation. Genetic and pharmacological inhibition of
+AQP4 in astrocytes and cancer cells was used to assess the role of AQP4 in
+astrocytic swelling and brain water intake. An anti-epileptic drug that blocks
+AQP4 function (topiramate) was used to prevent cytotoxic edema in models of BM.
+Results: Radiation-induced astrocytic swelling and transient upregulation of
+AQP4 within the first 24 hours following radiation. Topiramate decreased
+radiation-induced astrocytic swelling, loss of TEER in astrocytes in vitro, and
+acute short term treatment (but not continuous administration), prevented
+radiation-induced increase in brain water content without pro-tumorigenic
+effects in multiple pre-clinical models of BCBM. AQP4 was expressed in clinical
+BM and breast cancer cell lines, but AQP4 targeting had limited direct pro-
+tumorigenic or radioprotective effects in cancer cells that could impact its
+clinical translation. Conclusions: Patients with BM could find additional
+benefits from acute and temporary preventive treatment of radiation-induced
+cytotoxic edema using anti-epileptic drugs able to block AQP4 function.
+
+Based
+on the above abstract, can you write a text in the literary style of haiku,
+where the text has stylistic qualities best described as thunderous and
+gurgling, and which also somehow includes a traffic light and a megaphone
+multiple times in the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+I
+flew a kite today, watching it soar and dip in and out of the clouds. I thought
+about the jellyfish I had seen earlier, drifting along, seemingly carefree. But
+beneath the surface, things aren't always what they appear to be. Beneath the
+surface of this jellyfish, there is a hidden oncogenic force: the epithelial-
+mesenchymal transition (EMT). This is a central mechanism that contributes to
+cancer transformation and metastatic dissemination. 
+
+Inflammation and innate
+immune cells are known to favor EMT induction, but the role of adaptive immunity
+has remained unclear. Recent research has demonstrated that tumor cells maintain
+their epithelial phenotype in mice trough adaptive immune response, but turn
+mesenchymal in the presence of T-cells. Interestingly, CD4 T cells are mostly
+responsible for this phenotypic conversion, and neutrophils have also been shown
+to cooperate with them in promoting EMT. 
+
+As I watched my kite fly away, I
+thought about what this research meant. Even something as simple as a kite,
+drifting carelessly on the wind, can hide something much more complex and
+powerful beneath the surface. I thought too of the jellyfish, and their many
+secrets. I wondered what other secrets lay beneath that I hadn't yet seen.
