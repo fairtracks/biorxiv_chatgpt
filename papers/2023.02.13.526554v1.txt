@@ -1,0 +1,48 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.13.526554v1?rss=1):
+
+Spatial
+transcriptomics (ST) techniques are able to chart the distribution and
+localization of cell types and RNA molecules across a tissue. Sequencing-based
+methods allow unbiased capturing of RNA molecules at barcoded spots. While the
+coarse resolution of these techniquee is considered a disadvantage, we argue
+that the inherent proximity of transcriptomes captured on spots can be leveraged
+to reconstruct cellular networks. To this end, we developed ISCHIA (Identifying
+Spatial Co-occurrence in Healthy and InflAmed tissues), a computational
+framework to analyze the spatial co-occurrence of cell types and transcript
+species in the tissue environment. Co-occurrence analysis is complementary to
+differential gene expression, as it does not depend on the abundance of a given
+cell type or the transcript expression levels, but rather on their spatial
+arrangement in the tissue. We applied ISCHIA to analyze co-occurrence of cell
+types, ligands and receptors in a sequencing-based ST dataset of human
+ulcerative colitis, and validated our findings on matched hybridization-based
+data. We uncover inflammation-induced cellular networks involving M-cell and
+fibroblasts, as well as ligand-receptor interactions enriched in the inflamed
+human colon, and their associated gene signatures. Our results highlight the
+hypothesis-generating power and broad applicability of co-occurrence analysis on
+spatial transcriptomics data.
+
+Based on the above abstract, can you write a text
+in the literary style of tragedy, where the text has stylistic qualities best
+described as thunderous and crispy, and which also somehow includes a helicopter
+and a kite multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+Once was a thunderbolt with a clap
+That brought agricultural
+pesticide to a snap
+The larvae of trematodes were quite bothered
+For these
+pesticides changed the ecology of freshwater ponds like a rotten potato
+The
+species of Schistosoma increased as the host snails were quite free
+Exempt from
+predation and pesticide's fee
+The danger was high for human health
+So the tools
+to mitigate were shown with a stealth
+Like a tennis racket wielded with might
+The hope is that schistosomiasis can be put to flight.
