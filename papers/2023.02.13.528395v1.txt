@@ -1,0 +1,59 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.13.528395v1?rss=1):
+
+kakapo
+(k[a]k[a]p[o]) is a python-based pipeline that allows users to extract and
+assemble one or more specified genes or gene families. It flexibly uses original
+RNA-seq read or GenBank SRA accession inputs without performing assembly of
+entire transcriptomes. The pipeline identifies open reading frames in the
+assembled gene transcripts and annotates them. It optionally filters raw reads
+for ribosomal, plastid, and mitochondrial reads, or reads belonging to non-
+target organisms (e.g., viral, bacterial, human). kakapo can be employed to
+extract arbitrary loci, such as those commonly used for phylogenetic inference
+in systematics or candidate genes and gene families in phylogenomic and
+metagenomic studies. We provide example applications and discuss how its use can
+offset the declining value of the GenBank's single-gene databases and help
+assemble datasets for a variety of phylogenetic analyses.
+
+Based on the above
+abstract, can you write a text in the literary style of lyric, where the text
+has stylistic qualities best described as quivering and sparkling, and which
+also somehow includes a lighthouse and a thunderbolt multiple times in the
+discussion?
+
+Interpretation of "text-davinci-003":
+
+
+The sun shone brightly over
+the old town, silhouetting its windmills and lighthouses in the warm summer
+breeze. In the distance, a small group of scholars could be seen clustered
+around a table, discussing the implications of their recent findings.
+
+"We have
+unlocked the secrets of neoantigen-based immunotherapy," said one of the
+scholars. "By creating NeoTCR, a unified database containing neoantigen-specific
+TCR sequences, we have bridged the gap between the clinical and the lab."
+
+The
+other scholars nodded in agreement, their eyes blinking and hissing as they
+tried to keep up with the conversation.
+
+"NeoTCR provides access to the
+scattered information on neoantigens and their associated TCRs," said another.
+"It not only helps researchers easily identify neoantigen-specific TCRs from raw
+sequencing data, it also enables us to hone in on the biological functions of
+such neoantigen-associated T-cells in anti-tumor immunity, paving the way for
+future treatments to be developed."
+
+The group looked over at the old windmill
+and lighthouse, their silhouettes seeming to grow ever larger in the distance as
+the sun slowly descended.
+
+"This is a remarkable achievement," said the first
+scholar. "By harnessing the power of the windmill and the lighthouse, we can
+turn NeoTCR into a beacon of hope, a lighthouse in the night."
+
+The scholars
+looked out across the town, and the windmill and lighthouse, knowing that they
+had created something special, something that could help millions of people
+around the world.
