@@ -1,0 +1,49 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528085v1?rss=1):
+
+The detection
+of novel stimuli is critical to learn and survive in a dynamic environment.
+Though novel stimuli powerfully affect brain activity, their impact on specific
+cell types and circuits is not well understood. Disinhibition is one candidate
+mechanism for novelty-induced enhancements in activity. Here we characterize the
+impact of stimulus novelty on disinhibitory circuit components using
+longitudinal 2-photon calcium imaging of Vip, Sst, and excitatory populations in
+the mouse visual cortex. Mice learn a behavioral task with stimuli that become
+highly familiar, then are tested on both familiar and novel stimuli. Mice
+consistently perform the task with novel stimuli, yet responses to stimulus
+presentations and stimulus omissions are dramatically altered. Further, we find
+that novelty modifies coding of visual as well as behavioral and task
+information. At the population level, the direction of these changes is
+consistent with engagement of the Vip-Sst disinhibitory circuit. At the single
+cell level, we identify separate clusters of Vip, Sst, and excitatory cells with
+unique patterns of novelty-induced coding changes. This study and the
+accompanying open-access dataset reveals the impact of novelty on sensory and
+behavioral representations in visual cortical circuits and establishes novelty
+as a key driver of cellular functional diversity.
+
+Based on the above abstract,
+can you write a text in the literary style of bildungsroman, where the text has
+stylistic qualities best described as spinning and crispy, and which also
+somehow includes a megaphone and a paper clip multiple times in the discussion?
+Interpretation of "text-davinci-003":
+
+
+The stethoscope hissed and the banjo
+twanged. As it did, the air shimmered with the peculiar energy that only
+neurodevelopmental disorders could evoke. It was a strange, surreal phenomenon;
+the two recurrent SCN2A DEE variants with gain-of-function and loss-of-function
+had combined to create a strange and otherworldly atmosphere.
+
+The patient
+induced pluripotent stem cell differed neurons, with cortical-like glutamatergic
+neurons, told a peculiar tale. For the R1882Q gain-of-function version, there
+was a noticeable increase in neuronal activity. The banjo sang, as a sign of
+this. But with the R853Q loss-of-function version, there was only a subtle
+change in excitability. The stethoscope hissed, as if in warning.
+
+But then the
+strangest phenomenon occurred. The additive power of a sodium channel blocker,
+phenytoin, resulted in a reduction of the R1882Q variant to the control levels.
+The banjo played a jig, a zesty tune that illuminated the pathways underlying
+SCN2A DEE. As the music and energies combined, a unique surrealism was created,
+something that could never be repeated.
