@@ -1,0 +1,67 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528576v1?rss=1):
+
+Astrocytes
+are the most abundant and heterogeneous cells in the central nervous system.
+They not only promote neuronal health and survival but also protect neurons from
+glutamate-induced excitotoxic insults. In the spinal cord, astrocytes are
+present in both the dorsal horn (DH) and ventral horns (VH) however only motor
+neurons in the ventral horn are highly vulnerable to glutamate excitotoxicity.
+We hypothesize that the preferential vulnerability of motor neurons may underlie
+their spatial confinement into the ventral horn wherein astrocytes are
+differentially equipped with glutamate handling machinery. With aging, this
+glutamate excitotoxicity increases suggesting a compromised astrocytic glutamate
+handling as a function of aging. We addressed these hypotheses by comparing
+astrocytic morphology, expression of glutamate transports, and glutamate uptake
+function in dorsal and ventral horns using immunohistochemical staining, western
+blotting, and whole-cell patch-clamp electrophysiology. Our results suggest a
+global reduction in the numerical density and astroglial coverage of in spinal
+cord, with the most prominent decline in the ventral horn with aging. Astrocytic
+glutamate transporter EAAT1 and EAAT2 show an overall reduction in expression
+with aging. However, the ventral horn showed a progressive decrease compared to
+the dorsal horn. To assess the functional outcome of the altered expression of
+EAATs with aging we performed whole-cell patch-clamp studies in dorsal and
+ventral horn astrocytes in different age groups. Both ventral and dorsal horn
+astrocytes showed a dramatic decline in the glutamate uptake currents with
+aging, suggesting a compromised glutamate handling by aging astrocytes. Our
+study suggests that astrocytes in the dorsal and ventral horn undergo
+differential changes with aging leading to compromise in their glutamate
+handling properties. These age and region-associated alterations in
+extracellular glutamate regulation through astrocytic glutamate transporters may
+be key contributors to the late onset of neurodegenerative disorders including
+sporadic ALS.
+
+Based on the above abstract, can you write a text in the literary
+style of comedy, where the text has stylistic qualities best described as
+tangled and wobbling, and which also somehow includes a candelabra and a
+saxophone multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+The vista stretched ahead of us, a wavy, tangled horizon, a
+distorted kaleidoscope of the future. We had been warned of the disentangled,
+yet we had refused to heed those warnings and had instead embraced a deep
+generative model, a black box approach that we hoped would account for human
+visual processing. But instead of understanding the computations behind the
+human face network, we were left with a dark and twisted landscape, filled with
+shadows cast by the many candelabras that illuminated our journey as we ventured
+deeper into the unknown. 
+
+By studying brain activity, we had hoped to find
+interpretable dimensions of faces – such as rotation, lighting, and hairstyle –
+but instead, the vast majority of our model's learned latent dimensions were
+uninterpretable. As we searched for answers, our progress was slow and
+laborious, the path ahead of us often obscured by the ever-twisting
+kaleidoscope. Nevertheless, we trudged on, clinging to the candelabra of hope,
+questioning why the few "entangled" dimensions of our model seemed to carry
+meaningful information about facial identity.
+
+We eventually stumbled upon a
+gradient from low to high-level face features that extended along the posterior
+to anterior regions of the face-selective voxels, which provided us with some
+understanding of human face recognition. But this knowledge was ultimately
+meager, and the landscape remained dark and untamed. We could only hope that in
+the future, through disentangled face encoding models, we would be able to break
+free from the clutches of the unknown and find light in the darkness.
