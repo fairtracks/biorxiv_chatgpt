@@ -1,0 +1,67 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528585v1?rss=1):
+
+The amino
+acid L-proline exhibits novel growth factor-like properties during development -
+from improving blastocyst development to driving neurogenesis in vitro. Addition
+of 400 M L-proline to self-renewal medium drives mouse embryonic stem cells
+(ESCs) to a transcriptionally distinct pluripotent cell population - early
+primitive ectoderm-like (EPL) cells - which lies between the naive and primed
+states. EPL cells retain expression of pluripotency genes, upregulate primitive
+ectoderm markers, undergo a morphological change and have increased cell number.
+These changes are facilitated by a complex signalling network hinging on the
+Mapk, Fgfr, Pi3k and mTor pathways. We use a factorial experimental design
+coupled with linear modelling and Bayesian regularised neural networks to
+understand which signalling pathways are involved in the transition between ESCs
+and EPL cells, and how they underpin changes in morphology, cell number,
+apoptosis, proliferation and gene expression. This approach allows for
+consideration of where pathways work antagonistically or synergistically.
+Modelling showed that most properties were affected by more than one inhibitor,
+and each inhibitor blocked specific aspects of differentiation. These mechanisms
+underpin both progression of stem cells across the in vitro pluripotency
+continuum and serve as a model for pre-, peri- and post-implantation
+embryogenesis.
+
+Based on the above abstract, can you write a text in the
+literary style of magical realism, where the text has stylistic qualities best
+described as sizzling and blazing, and which also somehow includes a trombone
+and a jellyfish multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+Once upon a time, in a land far, far away, there lived a giant
+hogweed, Heracleum sosnowskyi, that caused great distress to both the local
+ecosystems and unsuspecting people. Heracleum was known for its ability to
+produce linear furanocoumarins (FCs) – compounds that could act as either a
+photosensitizing agent or a medicine. 
+
+In order to learn more about this
+troublesome plant, a team of brave scientists set out to explore the plant's
+genome. After much searching and sequencing, they discovered that the hogweed
+had a surprisingly large number of genes – 55,206 – which was more than double
+the typical number found in plants! 
+
+The scientists' next mission was to search
+for the genes responsible for the production of FCs. Utilizing a combination of
+expression data and phylogenetic analysis, they were able to identify the genes
+responsible for psoralen synthase and, after testing one of them in a yeast
+expression system, proved the validity of their findings. 
+
+At this point, the
+scientists were feeling very proud of the work they had done – until they heard
+a loud sound coming from the sky. It was a megaphone! The voice coming from the
+megaphone said, "You have all done very great work, but now you must take it to
+the next level and use a seashell to amplify your results!" 
+
+The scientists,
+who had never encountered such a strange request before, were at a loss.
+However, after careful thought and collaboration, they decided to give it a try.
+To their surprise, the seashell definitely amplified their results, leading to
+even more discoveries about the hogweed's genetics. 
+
+At long last, the team had
+accomplished their goal: by learning about the hogweed's genes, they were now
+able to better understand how this plant impacts the world around us, both
+positively and negatively. And so, armed
