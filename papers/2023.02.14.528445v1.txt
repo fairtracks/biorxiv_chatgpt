@@ -1,0 +1,57 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528445v1?rss=1):
+
+Patched1
+(PTCH1) is the principal tumour suppressor protein of the mammalian Hedgehog
+(HH) signalling pathway, implicated in embryogenesis and tissue homeostasis.
+PTCH1 inhibits the Class F G protein-coupled receptor Smoothened (SMO) via a
+debated mechanism involving modulating accessible cholesterol levels within
+ciliary membranes. Using extensive molecular dynamics (MD) simulations and free
+energy calculations to evaluate cholesterol transport through PTCH1, we find an
+energetic barrier of ~15-20 kJ mol-1 for cholesterol export. In simulations we
+identify cation binding sites within the PTCH1 transmembrane domain (TMD) which
+may provide the energetic impetus for cholesterol transport. In silico data are
+coupled to in vivo biochemical assays of PTCH1 mutants to probe coupling between
+transmembrane motions and PTCH1 activity. Using complementary simulations of
+Dispatched1 (DISP1) we find that transition between inward-open and solvent
+occluded states is accompanied by Na+ induced pinching of intracellular helical
+segments. Thus, our findings illuminate the energetics and ion-coupling
+stoichiometries of PTCH1 transport mechanisms, whereby 1-3 Na+ or 2-3 K+ couple
+to cholesterol export, and provide the first molecular description of
+transitions between distinct transport states.
+
+Based on the above abstract, can
+you write a text in the literary style of memoir, where the text has stylistic
+qualities best described as glowing and zesty, and which also somehow includes a
+teapot and a molotov cocktail multiple times in the discussion?
+
+Interpretation
+of "text-davinci-003":
+
+
+Ah, NeoTCR, the remarkable computerized database that
+illuminates the immense and chaotic world of neoantigen-specific TCRs. It is a
+veritable cuckoo clock that chimes anew and with each passing minute, reveals
+something new and extraordinary about this wondrous realm. 
+
+As I explore NeoTCR
+from the comfort of my armchair, I am awed at the dazzling array of information
+available. I am astonished to discover the dizzying amount of pathways and
+avenues the database has to offer me; I feel as if I am standing atop a mountain
+and can survey the entire valley below me. Vast swathes of data from 18
+different cancer subtypes lie at my fingertips. I can search descriptively, run
+complex queries and browse through the interface as if I was standing before a
+billowing sea of information. 
+
+I marvel too at the remarkable ability of NeoTCR
+to rapidly identify neoantigen-specific TCRs from raw sequencing data. Like a
+vase, the program is able to pull the meaningful pieces of data together to form
+a cohesive and beautiful picture - the big data puzzle made up of the sum of its
+parts. 
+
+NeoTCR is an invaluable platform which aims to help us better
+understand the secrets of anti-tumor immunity, and someday, apply this knowledge
+to improve clinical cancer treatments. A blazing beacon of hope in the night,
+NeoTCR is a cuckoo clock that does not stop ringing, and this is what makes it
+so special.  Every second striking, every minute deepening our knowledge and
+understanding, every hour leading us closer to a breakthrough.
