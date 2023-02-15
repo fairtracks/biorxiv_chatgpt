@@ -1,0 +1,69 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528217v1?rss=1):
+
+SCN2A encodes
+Nav1.2, an excitatory neuron voltage-gated sodium channel and major monogenic
+cause of neurodevelopmental disorders, including developmental and epileptic
+encephalopathies (DEE) and autism. Clinical presentation and pharmocosensitivity
+vary with nature of SCN2A variant dysfunction with gain-of-function (GoF) cases
+presenting with pre- or peri-natal seizures and loss-of-function (LoF) patients
+typically having infantile spasms after 6 months of age. Here, we established
+and assessed patient induced pluripotent stem cell (iPSC) - derived neuronal
+models for two recurrent SCN2A DEE variants with GoF R1882Q and LoF R853Q
+associated with early- and late-onset DEE, respectively. Patient-derived iPSC
+lines were differentiated using a Neurogenin-2 overexpression yielding
+populations of cortical-like glutamatergic neurons. Electrophysiological and
+transcriptomic profiles were assessed after 2-4 weeks in culture. Increased
+neuronal activity at both cellular and network level was observed for R1882Q
+iPSC-derived neurons at three weeks of differentiation. In contrast, R853Q
+neurons showed only subtle changes in excitability after four weeks in vitro. In
+alignment with the reported efficacy in some GoF SCN2A patients, phenytoin
+(sodium channel blocker) reduced excitability of neurons to the control levels
+in R1882Q neuronal cultures. Transcriptomic alterations in neurons were detected
+for each variant and convergent pathways pointed at the shared mechanisms
+underlying SCN2A DEE.
+
+Based on the above abstract, can you write a text in the
+literary style of surrealism, where the text has stylistic qualities best
+described as zesty and hissing, and which also somehow includes a stethoscope
+and a banjo multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+Once upon a time, in a magical realm of perception, there lived
+a creature of extraordinary sight. It had the power to witness the movement of
+unseen forces in the natural world, to track them like the wind through a
+forest, and to understand the secrets of how things moved and interacted in
+nature.
+
+This creature, which was known as the Seer, was so powerful that it
+even possessed the astonishing ability to foretell the motion of objects in
+seemingly random animations. The Seer used its powers to measure the optical
+flows that people perceived when watching realistic movies.
+
+To measure the
+perceived motion of an object, the Seer would flash a small dot on the screen
+during the presentation of a brief movie clip. Then it asked observers to adjust
+the speed and direction of a matching random-noise stimulus so as to reproduce
+the vector at the point where the dot had appeared. When the observers had done
+this, the Seer could then compare the perceived vector to ground truths and
+model predictions in order to understand the underlying neural and computational
+mechanisms of visual motion perception.
+
+Remarkably, the Seer was able to not
+only accurately estimate the perceived flow of an object, but also to identify
+the unique ways in which this perception was distorted, known as 'flow
+illusions'. For instance, the Seer discovered that some illusions could be
+attributed to factors such as spatiotemporal pooling and signal loss, whilst
+others reflected more complex considerations that could not be precisely
+predicted by existing flow estimation models.
+
+By wielding its power of
+perception, the Seer was able to reveal the extraordinary capabilities of human
+motion perception, and in doing so, prove the efficacy of its novel method for
+measuring optical flows. Its wisdom would soon become so powerful that it could
+be used to interpret even the most complex of natural scenes, like a hairbrush,
+a barometer and even a moonbeam. The Seer's wisdom would revolutionize our
+understanding of visual motion perception and be forever remembered
