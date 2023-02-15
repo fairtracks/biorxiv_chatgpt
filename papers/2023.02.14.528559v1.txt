@@ -1,0 +1,65 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528559v1?rss=1):
+
+Background:
+Brain edema is a common complication of brain metastases (BM) and associated
+treatment. The extent to which cytotoxic edema, the first step in the sequence
+that leads to ionic edema, vasogenic edema and brain swelling, contributes to
+radiation-induced brain edema during BM remains unknown. This study aimed to
+determine whether radiation-associated treatment of BM induces cytotoxic edema
+and the consequences of blocking the edema in pre-clinical models of breast
+cancer brain metastases (BCBM). Methods: Using in vitro and in vivo models, we
+measured astrocytic swelling, trans-electric resistance (TEER) and aquaporin 4
+(AQP4) expression following radiation. Genetic and pharmacological inhibition of
+AQP4 in astrocytes and cancer cells was used to assess the role of AQP4 in
+astrocytic swelling and brain water intake. An anti-epileptic drug that blocks
+AQP4 function (topiramate) was used to prevent cytotoxic edema in models of BM.
+Results: Radiation-induced astrocytic swelling and transient upregulation of
+AQP4 within the first 24 hours following radiation. Topiramate decreased
+radiation-induced astrocytic swelling, loss of TEER in astrocytes in vitro, and
+acute short term treatment (but not continuous administration), prevented
+radiation-induced increase in brain water content without pro-tumorigenic
+effects in multiple pre-clinical models of BCBM. AQP4 was expressed in clinical
+BM and breast cancer cell lines, but AQP4 targeting had limited direct pro-
+tumorigenic or radioprotective effects in cancer cells that could impact its
+clinical translation. Conclusions: Patients with BM could find additional
+benefits from acute and temporary preventive treatment of radiation-induced
+cytotoxic edema using anti-epileptic drugs able to block AQP4 function.
+
+Based
+on the above abstract, can you write a text in the literary style of surrealism,
+where the text has stylistic qualities best described as billowing and
+serpentine, and which also somehow includes a mandolin and a traffic light
+multiple times in the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+Once
+upon a time, there lived a thunderbolt, which was the source of power and might
+to activate the Sphingosine-1-phosphate receptor 1 (S1PR1). The thunderbolt was
+associated with a Cluster of Differentiation 69 (CD69), which was a negative
+regulator of lymphocyte egress that would interact with S1PR1, and facilitate
+its internalization and degradation. 
+
+The relationship between the thunderbolt
+and CD69 was mysterious and unclear, but soon enough it was revealed that CD69
+would act in cis as a protein agonist of S1PR1. This was in order to promote the
+Gi-dependent S1PR1 internalization, loss of S1P gradient sensing, and inhibition
+of lymphocyte egress. 
+
+The thunderbolt, however, was not the only weapon of
+power in this world. A small but powerful umbrella was also added to the mix. It
+was revealed that the transmembrane helix (TM) of one protomer of CD69 homodimer
+would interact with the S1PR1-TM4, which would allosterically induce the
+movement of S1PR1-TMs 5-6. This movement would directly activate the receptor to
+engage the heterotrimeric Gi and the umbrella was there to protect it.
+Mutations of key residues were at the interface were also able to affect the
+interactions between CD69 and S1PR1. This, in turn, would reduce the receptor
+internalization, but with the help of the thunderbolt and umbrella, the process
+was successful and effective in the end. 
+
+And so the thunderbolt and the
+umbrella lived happily ever after, forever protecting the
+Sphingosine-1-phosphate receptor 1 (S1PR1), and making sure it was able to do
+its job of supporting and maintaining immunity and T cell effector activity.
