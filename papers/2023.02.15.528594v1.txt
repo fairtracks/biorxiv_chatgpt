@@ -1,0 +1,53 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.15.528594v1?rss=1):
+
+Epithelial-
+mesenchymal transition (EMT) is a central oncogenic mechanism, contributing both
+to transformation and metastatic dissemination. Inflammation and innate immune
+cells are known to favor EMT induction, but the role of adaptive immunity still
+remains unclear. Using an original murine mammary tumor model in immune cell
+subpopulation depletion experiments, we demonstrated that tumor cells maintain
+their epithelial phenotype in mice deficient for adaptive immune response, but
+undergo EMT in the presence of T-cells. This phenotypic conversion involves the
+major contribution of CD4 T cells, but not CD8 T cells nor B cells, undoubtedly
+demonstrating the pro-EMT role of CD4 T cells specifically among adaptive immune
+cells. Moreover, combined intra-tumor immune infiltrate and transcriptomic
+analyses of murine mammary tumors with various EMT phenotype revealed an inverse
+correlation between mesenchymal tumor cell and intratumoral neutrophil
+proportions, due to the reduced ability of mesenchymal cells to recruit
+neutrophils. Last, selective in vivo depletion of neutrophils and transcriptomic
+analysis of human breast tumor cohorts demonstrated the pro-EMT role of
+neutrophils and suggest a cooperation with CD4 T cells in EMT promotion.
+Collectively, our data highlight a novel mechanism of EMT regulation by both
+innate and adaptive immune compartments.
+
+Based on the above abstract, can you
+write a text in the literary style of stream of consciousness, where the text
+has stylistic qualities best described as crispy and fluffy, and which also
+somehow includes a kite and a jellyfish multiple times in the discussion?
+Interpretation of "text-davinci-003":
+
+
+Once upon a time, in a laboratory deep
+within a distant eldritch realm, a group of scientists made an incredible
+discovery. They discovered that in the simple, unassuming nematode C. elegans,
+the level of insulin-mTOR signalling could have a powerful effect on the
+longevity of the organism.
+
+In examining the consequences of increased insulin-
+mTOR signalling, the scientists found that too much of the hormone INS-7 could
+shorten the lifespan of a mutant strain called lpd-3. In looking for an
+explanation for this phenomenon, the scientists discerned an increase in
+hexaceramide species. Further inquiry revealed that this rise was due the
+activity of the gene HYL-1. 
+
+The scientists then reversed the process -
+reducing the activity of HYL-1 decreased the INS-7 levels and restored the
+shortened lifespans of the lpd-3 mutants. This, the scientists concluded, was
+through the InsR/DAF-2 and mTOR/LET-363 pathways.
+
+The riddle was solved, and
+the scientists concluded that increased insulin signaling could have a
+detrimental effect on lifespan. As the elated scientists celebrated, their
+chandeliers and hammocks swung merrily in the background, heralding a new and
+zesty future for longevity research.
