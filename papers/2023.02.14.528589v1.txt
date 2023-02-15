@@ -1,0 +1,73 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528589v1?rss=1):
+
+Understanding
+disease transmission in corals can be complicated given the intracity of the
+holobiont and difficulties associated with ex situ coral cultivation. As a
+result, most of the established transmission pathways for coral disease are
+associated with perturbance (i.e., damage) rather than evasion of immune
+defenses. Here we investigate ingestion as a potential pathway for the
+transmission of coral pathogens that evades the mucus membrane. Using sea
+anemones (Exaiptasia pallida) and brine shrimp (Artemia sp.) to model coral
+feeding, we tracked the acquisition of the putative pathogens, Vibrio
+alginolyticus, V. harveyi, and V. mediterranei using GFP-tagged strains. Vibrio
+sp. were provided to anemones using three experimental exposures 1) direct water
+exposure alone, 2) water exposure in the presence of a food source (clean
+Artemia), and 3) through a "spiked" food source (Vibrio-colonized Artemia)
+created by exposing Artemia cultures to GFP-Vibrio via the ambient water
+overnight. Following a 3 h feeding/exposure duration, the level of acquired GFP-
+Vibrio was quantified from anemone tissue homogenate. Ingestion of spiked
+Artemia resulted in a significantly greater burden of GFP-Vibrio equating to an
+829.7-fold, 3,108.2-fold, and 435.0-fold increase in CFU mL-1 when compared to
+water exposed trials and a 206.8-fold, 62.2-fold, and 27.3-fold increase in CFU
+mL-1 compared to water exposed with food trials for V. alginolyticus, V.
+harveyi, and V. mediterranei, respectively. These data suggest that ingestion
+can facilitate delivery of an elevated dose of pathogenic bacteria in cnidarians
+and may describe an important portal of entry for pathogens in the absence of
+perturbing conditions.
+
+Based on the above abstract, can you write a text in the
+literary style of realism, where the text has stylistic qualities best described
+as glazed and gaseous, and which also somehow includes a disco ball and a
+accordion multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+I used to lie in my hammock, daydreaming and whispering to
+myself, wondering how the stars and the universe worked. Little did I know that
+understanding the connection between genes, environment, and disease was the
+puzzle I had been searching for all along.
+
+One warm summer day in my hammock,
+listening to the chirping of the birds and the sweet melodies of the harmonica,
+I came across a scientific paper recently published at bioRxiv. It talked about
+an efficient method for modeling gene-environment correlations and interactions
+using Polygenic Risk Scores (PRS) in case-control studies.
+
+The paper detailed
+how researchers developed a logistic-normal regression modeling framework to
+specify the disease risk and PRS distribution in the underlying population. It
+explained how the retrospective likelihood of the case-control data can be used
+to draw joint inference across the two models. 
+
+The paper also discussed how
+this method has been found to be more efficient and accurate than the standard
+logistic regression or a case-only analysis for gene-environment interactions,
+or a control-only analysis for gene-environment correlations. To demonstrate the
+power of the proposed method, the researchers had used simulated case-control
+datasets within the UK Biobank study to detect an interaction between long-term
+oral contraceptive use and PRS on the risk of breast cancer.
+
+The paper was
+user-friendly, and implemented in an R package. I was astounded by the complex
+method that had been developed to find connections between genes, environment,
+and disease, and I felt a strong sense of pride when I thought about the power
+of science and knowledge.
+
+As I lay there in my hammock, I realized that in just
+a few minutes of reading, my understandings of the stars, the universe, and the
+intricate connections between genes and environment had grown a lot. I was now
+ready to dive deeper, to explore, and to uncover more secrets of the heavens and
+the world
