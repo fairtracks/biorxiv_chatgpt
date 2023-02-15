@@ -1,0 +1,60 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.13.528411v1?rss=1):
+
+The rapidly
+growing collection of public single-cell sequencing data have become a valuable
+resource for molecular, cellular and microbial discovery. Previous studies
+mostly overlooked detecting pathogens in human single-cell sequencing data.
+Moreover, existing bioinformatics tools lack the scalability to deal with big
+public data. We introduce Vulture, a scalable cloud-based pipeline that performs
+microbial calling for single-cell RNA sequencing (scRNA-seq) data, enabling
+meta-analysis of host-microbial studies from the public domain. In our
+scalability benchmarking experiments, Vulture can outperform the state-of-the-
+art cloud-based pipeline Cumulus with a 40% and 80% reduction of runtime and
+cost, respectively. Furthermore, Vulture is 2-10 times faster than PathogenTrack
+and Venus, while generating comparable results. We applied Vulture to two
+COVID-19, three hepatocellular carcinoma (HCC), and two gastric cancer human
+patient cohorts with public sequencing reads data from scRNA-seq experiments and
+discovered cell-type specific enrichment of SARS-CoV2, hepatitis B virus (HBV),
+and H. pylori positive cells, respectively. In the HCC analysis, all cohorts
+showed hepatocyte-only enrichment of HBV, with cell subtype-associated HBV
+enrichment based on inferred copy number variations. In summary, Vulture
+presents a scalable and economical framework to mine unknown host-microbial
+interactions from large-scale public scRNA-seq data. Vulture is available via an
+open-source license at https://github.com/holab-hku/Vulture.
+
+Based on the above
+abstract, can you write a text in the literary style of limerick, where the text
+has stylistic qualities best described as rustling and bumpy, and which also
+somehow includes a pinwheel and a wristwatch multiple times in the discussion?
+Interpretation of "text-davinci-003":
+
+
+The sun shimmered brightly over the
+landscape, the lush green grass swaying in the gentle summer breeze. But beneath
+the serenity, something sinister lurked - polychlorinated biphenyls (PCBs).
+These pollutants had the potential to wreak biological havoc, and the cells of
+the hepatic nonparenchymal system were no exception.
+
+To better understand
+cells' responses to the dioxin-like PCBs, researchers conducted single-cell RNA
+sequencing to get a detailed landscape of the cells' behavior. Astonishingly,
+this process uncovered thirteen distinct clusters of cell behavior, each
+responding differently to PCB126 exposure.
+
+Specifically, endothelial cells were
+found to be most sensitive to PCB126, as evidenced by the induction of the
+canonical genomic AhR pathway. Immune cells too had a unique response to PCB126,
+with a remarkable transcriptional pattern change.
+
+But it wasn't just the cells
+that reacted to the pollution. A nearby zucchini, a source of nutrition and
+sustenance, began to shrivel in the toxins of the environment. Even a simple
+dandelion, the embodiment of beauty and resilience, lost its luster.
+
+The
+research, ultimately, served as a powerful reminder of the need to understand in
+vivo cell heterogeneity when considering environmental toxicology. It was time
+to recognize the complexity and fragility of the natural environment, to use the
+research to reduce pollutants, to save the zucchini, and to bring back the
+dandelion.
