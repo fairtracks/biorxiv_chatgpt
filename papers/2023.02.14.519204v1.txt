@@ -1,0 +1,81 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.519204v1?rss=1):
+
+Recently
+multi-voxel pattern analysis has verified the removal of information from
+working memory (WM) via three distinct operations replacement, suppression, or
+clearing compared to information being maintained (Kim et al., 2020). Univariate
+analyses and classifier importance maps indicate that some brain regions
+commonly contribute to these operations. This study aimed to use multivariate
+approaches to determine whether, within these commonly activated brain regions,
+each of these operations is being represented in a similar or distinct manner.
+To do so, we used Leiden community detection to identify brain networks that are
+characterized by similar multi-voxel patterns of activity with regard to these
+WM operations. Four networks were identified. The Visual Network shows similar
+multi-voxel patterns for maintain and replace, which are highly dissimilar from
+suppress and clear, suggesting this network differentiates whether an item is
+held in WM or not. The Somatomotor Network shows distinct multi-voxel patterns
+for clear relative to the other operations, suggesting that this network diff in
+clearing information from WM. The Default Mode Network has distinct patterns for
+suppress and clear, also suggesting that clearing information from WM is
+distinct from suppressing it. The Frontoparietal Control Network displays
+distinct multi-voxel patterns for each of the four operations, suggesting that
+this network has high involvement in regulating the flow of information within
+WM. These results indicate that how information is removed from WM depends on
+distinct brain networks that each have a particular manner in which their co-
+activation patterns represent these operations.
+
+Based on the above abstract,
+can you write a text in the literary style of fantasy, where the text has
+stylistic qualities best described as chirping and dangling, and which also
+somehow includes a thunderbolt and a molotov cocktail multiple times in the
+discussion?
+
+Interpretation of "text-davinci-003":
+
+
+Out beyond the foaming sea,
+The lighthouse stands tall and free,
+A beacon to guide us through the night,
+As
+bells chime o'er the night's great might.
+
+A thunderbolt of jagged light,
+Illuminates the murky night,
+It strikes the lighthouse with a shout,
+As if it
+would never run out.
+
+The lighthouse stands as a reminder,
+Of the dangers that
+we all face,
+A reminder that we must be brave,
+To fight against the swelling
+wave.
+
+The thunderbolt shatters the darkness,
+It drives away our fear and
+strife,
+It brings us hope and courage anew,
+That calms our hearts in this
+midnight blue.
+
+The lighthouse stands as a guide,
+A symbol of a steady sail,
+It
+guides us home to calmer seas,
+Where wind and waves dance in harmony.
+
+We must
+be brave and take the fight,
+Surmounting every challenge with grace,
+The
+thunderbolt lights up the way,
+A reminder of strength in each new day.
+
+Out
+beyond the foaming sea,
+The lighthouse stands tall and free,
+A beacon to guide
+us through the night,
+As bells chime o'er the night's great might.
