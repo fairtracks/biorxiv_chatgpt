@@ -1,0 +1,63 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.15.528489v1?rss=1):
+
+Despite
+decades of research, much is still unknown about the computations carried out in
+the human face processing network. Recently deep networks have been proposed as
+a computational account of human visual processing, but while they provide a
+good match to neural data throughout visual cortex, they lack interpretability.
+We introduce a method for interpreting brain activity using a new class of deep
+generative models, disentangled representation learning models, which learn a
+low-dimensional latent space that "disentangles" different semantically
+meaningful dimensions of faces, such as rotation, lighting, or hairstyle, in an
+unsupervised manner by enforcing statistical independence between dimensions. We
+find that the majority of our model's learned latent dimensions are
+interpretable by human raters. Further, these latent dimensions serve as a good
+encoding model for human fMRI data. We next investigated the representation of
+different latent dimensions across face-selective voxels. We find a gradient
+from low- to high-level face feature representations along posterior to anterior
+face-selective regions, corroborating prior models of human face recognition.
+Interestingly, though, we find no spatial segregation between identity-relevant
+and irrelevant face features. Finally, we provide new insight into the few
+"entangled" (uninterpretable) dimensions in our model by showing that they match
+responses across the ventral stream and carry significant information about
+facial identity. Disentangled face encoding models provide an exciting
+alternative to standard "black box" deep learning approaches for modeling and
+interpreting human brain data.
+
+Based on the above abstract, can you write a
+text in the literary style of dystopian, where the text has stylistic qualities
+best described as wavy and tangled, and which also somehow includes a candelabra
+and a kaleidoscope multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+It was a dark and stormy night, and Professor Smith was peering
+intently at his microscope, studying the astrocytes in the spinal cords of both
+young and old rats. What was causing motor neurons in the ventral horn to be so
+highly vulnerable to glutamate excitotoxicity? What he saw was both wonderful
+and mysterious – it seemed that the aging astrocytes in the ventral horn were
+losing their glutamate handling machinery, leaving the motor neurons
+defenseless.
+
+It was almost like a scurrying colony of ants, all running to and
+fro, carrying their loads of glutamate transporters around the ventral horn.
+Smith sighed and scratched his head – what to do?
+
+Suddenly, his eyes lit up –
+an idea! He reached for his candelabra and lit up the room, and grabbed his
+saxophone. He began to play an ancient, jazzy melody, and the astrocytes seemed
+to respond – they began to dance around, and as they glowed in the light of the
+candles and the sound of the saxophone, they seemed to magically repair their
+glutamate transporters.
+
+Smith continued his playing, and the astrocytes kept
+moving, faster and faster, eventually knitting together a beautiful tapestry of
+glutamate handling machinery.
+
+Now, if only Smith could find a way to bring the
+same magical healing to motor neurons in the ventral horn… but that was a
+problem for another day. For now, Professor Smith and the astrocytes had found
+the answer to their mystery.
