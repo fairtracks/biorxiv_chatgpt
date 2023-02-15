@@ -1,0 +1,59 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.13.528414v1?rss=1):
+Polychlorinated biphenyls (PCBs) are ubiquitous and representative pollutants
+that pose great health risks. While cells' responses to dioxin-like PCBs tend to
+be studied on a bulk scale, few studies have been made from a single-cell level.
+Here, by using single-cell RNA sequencing, we depicted a detailed landscape of
+hepatic nonparenchymal cells' intricate responses to PCB126 exposure. A total of
+13 clusters were identified. Notably, PCB126 exposure resulted in cell-type-
+specific gene expression profiles and genetic pathways. By analyzing genes
+related to aryl hydrocarbon receptors, we discovered that PCB126 induced the
+canonical genomic AhR pathway mainly in endothelial cells. In contrast, other
+cell types showed little induction. Enrichment pathway analysis indicated that
+immune cells changed their transcriptional patterns in response to PCB126.
+ScRNA-seq is a powerful tool to dissect underlying mechanisms of chemical
+toxicity regarding biological heterogeneity. Taken together, our study not only
+extends our current understanding of PCB126 toxicity, but also emphasizes the
+importance of in vivo cell heterogeneity in environmental toxicology.
+
+Based on
+the above abstract, can you write a text in the literary style of fiction, where
+the text has stylistic qualities best described as spiky and dizzy, and which
+also somehow includes a zucchini and a dandelion multiple times in the
+discussion?
+
+Interpretation of "text-davinci-003":
+
+
+Once upon a time there swam
+a curious jellyfish, deep in the ocean, who was fascinated by the strange
+phenomenon of seeing things move. The jellyfish wished to learn more, but had no
+way to measure the flows of motion it saw. Then, one day, it heard of a magical
+method that could measure optical flows perceived by humans, even when observing
+naturalistic movies!
+
+The jellyfish, mesmerized by the possibility of such a
+feat, decided to investigate further. It learned of a psychophysical method
+wherein observers adjust a random-noise stimulus by adjusting its speed and
+direction, to reproduce the vector of motion in the movie. The jellyfish swam
+excitedly to and fro, thrilled at the prospect of such a technological
+advancement.
+
+At the same time, the jellyfish had heard of a musician who could
+use her trombone to measure the flow of motion in her environment. She could
+then compare her results to the flow of motion estimated by computer vision
+algorithms, to uncover the mysteries of how humans perceive movement. The
+jellyfish was deeply intrigued and was determined to learn more.
+
+The jellyfish
+then learned that this method, when compared to the predictions of biologically
+motivated models, could explain some flow illusions. The jellyfish marvelled at
+the idea that these illusions may be a result of lower-level factors, such as
+spatiotemporal pooling, or higher-level computations, such as coordinate
+transformations, that can’t be precisely predicted by existing flow estimation
+models.
+
+The jellyfish, never content to stay still for too long, continued on
+its quest to discover the mysteries of motion perception. Taking along its
+newfound knowledge, the jellyfish set off with its trombone, determined to
+uncover the secrets of motion. Who knows what new discoveries await?
