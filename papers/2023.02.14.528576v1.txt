@@ -1,0 +1,70 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528576v1?rss=1):
+
+Astrocytes
+are the most abundant and heterogeneous cells in the central nervous system.
+They not only promote neuronal health and survival but also protect neurons from
+glutamate-induced excitotoxic insults. In the spinal cord, astrocytes are
+present in both the dorsal horn (DH) and ventral horns (VH) however only motor
+neurons in the ventral horn are highly vulnerable to glutamate excitotoxicity.
+We hypothesize that the preferential vulnerability of motor neurons may underlie
+their spatial confinement into the ventral horn wherein astrocytes are
+differentially equipped with glutamate handling machinery. With aging, this
+glutamate excitotoxicity increases suggesting a compromised astrocytic glutamate
+handling as a function of aging. We addressed these hypotheses by comparing
+astrocytic morphology, expression of glutamate transports, and glutamate uptake
+function in dorsal and ventral horns using immunohistochemical staining, western
+blotting, and whole-cell patch-clamp electrophysiology. Our results suggest a
+global reduction in the numerical density and astroglial coverage of in spinal
+cord, with the most prominent decline in the ventral horn with aging. Astrocytic
+glutamate transporter EAAT1 and EAAT2 show an overall reduction in expression
+with aging. However, the ventral horn showed a progressive decrease compared to
+the dorsal horn. To assess the functional outcome of the altered expression of
+EAATs with aging we performed whole-cell patch-clamp studies in dorsal and
+ventral horn astrocytes in different age groups. Both ventral and dorsal horn
+astrocytes showed a dramatic decline in the glutamate uptake currents with
+aging, suggesting a compromised glutamate handling by aging astrocytes. Our
+study suggests that astrocytes in the dorsal and ventral horn undergo
+differential changes with aging leading to compromise in their glutamate
+handling properties. These age and region-associated alterations in
+extracellular glutamate regulation through astrocytic glutamate transporters may
+be key contributors to the late onset of neurodegenerative disorders including
+sporadic ALS.
+
+Based on the above abstract, can you write a text in the literary
+style of sonnet, where the text has stylistic qualities best described as cactus
+and drifting, and which also somehow includes a tambourine and a barometer
+multiple times in the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+The
+megaphone of change blared and the paper clip of progress sprang open as a novel
+stimulus was presented before the eyes of a mouse in the visual cortex. This
+novel stimulus set in motion a chain of events that would have a lasting and
+profound impact on the mouse's learning process.
+
+The mouse was part of a larger
+experiment designed to study the effect of novelty on disinhibition and brain
+activity. As the mouse watched, its eyes were observed using two-photon calcium
+imaging to measure the activity of Vip, Sst and excitatory neurons.
+
+When the
+mouse was presented with a familiar task, it responded efficiently and
+effectively. But, when presented with a novel stimulus, the mouse's response was
+dramatically different. It performed the task willingly, but its reactions to
+stimulus presentation and omissions were changed drastically.
+
+At the population
+level, these changes were consistent with the engagement of the Vip-Sst
+disinhibitory circuit, responsible for modulating neuronal communication. At the
+single cell level, researchers identified separate clusters of Vip, Sst and
+excitatory cells whose patterns of novelty-induced coding alterations were
+unique.
+
+The novelty of the stimulus had catalyzed a new way of learning and of
+interpreting the world around it. The megaphone and paper clip of progress had
+done their part in opening the mouse's eyes to the unlimited potential of its
+environment. The mouse was now free to explore the world through the lens of
+curiosity, and the promise of change.
