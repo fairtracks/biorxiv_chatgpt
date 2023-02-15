@@ -1,0 +1,43 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.14.528582v1?rss=1):
+
+The neural
+and computational mechanisms underlying visual motion perception have been
+extensively investigated over several decades, but most studies have used simple
+artificial stimuli such as random-dot kinematograms. Thus, it remains difficult
+to predict how human observers perceive optical flows in complex natural scenes.
+Here, we report a novel method to measure, psychophysically, optical flows
+perceived by human observers watching naturalistic movies, and to reveal the
+characteristics of human motion perception via comparison of the measured
+perceived flow to the ground truths and model predictions. We selected movie
+clips from the MPI Sintel Flow Dataset, which contains open-source computer
+graphics animations with ground truths. To measure the perceived vectors at a
+spatiotemporal point, we flashed a small dot during presentation of a brief clip
+and asked the observers to adjust the speed and direction of a matching random-
+noise stimulus, to reproduce the vector at the flashed point. The proposed
+method adequately estimated perceived flow, and the estimated perceived vector
+also indicated flow illusions, i.e., consistent deviations from the ground
+truths, in various ways, depending on the stimulus patterns. Comparisons with
+the predictions of biologically motivated models and machine vision algorithms
+indicated that some flow illusions were attributable to lower-level factors such
+as spatiotemporal pooling and signal loss, but others reflected higher-level
+computations including coordinate transformations that cannot be precisely
+predicted by existing flow estimation models. Psychophysical measurement of the
+optical flows that humans perceive in realistic environments constitutes a
+promising paradigm for advancing our understanding of visual motion perception.
+Based on the above abstract, can you write a text in the literary style of
+folklore, where the text has stylistic qualities best described as wobbling and
+jagged, and which also somehow includes a jellyfish and a trombone multiple
+times in the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+There once was
+a pinwheel that rustled,
+It felt as bumpy as a wristwatch;
+It spun so quick with
+its own gusts,
+That it studied the microbes in the dust
+And used a Vulture to
+make its own batch.
