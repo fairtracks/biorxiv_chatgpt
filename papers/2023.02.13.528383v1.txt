@@ -1,0 +1,63 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.13.528383v1?rss=1):
+
+Neoantigen-
+based immunotherapy has demonstrated of long-lasting antitumor activity.
+Recognition of neoantigens by T cell receptors (TCRs) is considered a trigger
+for antitumor responses. Due to the overwhelming number of TCR repertoires in
+the human genome, it is challenging to computationally pinpoint neoantigen-
+specific TCRs. Recent studies have identified a number of functional neoantigen-
+specific TCRs, but the corresponding information is scattered across published
+literature and is difficult to retrieve. To improve access to these data, we
+developed the NeoTCR, an immunoinformatic database containing a unified
+description of publicly available neoantigen-specific TCR sequences, as well as
+relevant information on targeted neoantigens, from experimentally supported
+studies across 18 cancer subtypes. A user-friendly web interface allows
+interactive browsing and running of complex database queries based on numerous
+criteria. To facilitate rapid identification of neoantigen-specific TCRs from
+raw sequencing data, NeoTCR offers a one-stop analysis for annotation and
+visualization of TCR clonotypes, discovery of existing neoantigen-specific TCRs,
+and exclusion of bystander viral-associated TCRs. NeoTCR will serve as a
+valuable platform to study the biological functions of neoantigen-associated
+T-cells in anti-tumor immunity to better apply neoantigen-specific TCRs in
+clinics. NeoTCR is available at http://www.neotcrdb.com/.
+
+Based on the above
+abstract, can you write a text in the literary style of historical fiction,
+where the text has stylistic qualities best described as hissing and blinking,
+and which also somehow includes a windmill and a lighthouse multiple times in
+the discussion?
+
+Interpretation of "text-davinci-003":
+
+
+The thunderous sky
+exploded with energy, and the ground shook beneath their feet. A strange,
+chirping sound filled the air, and the people of the land looked upwards to
+behold a dazzling lightning bolt streaking across the heavens.
+
+The people
+gasped in wonder and awe as the lightning raged through the clouds, and in its
+wake came a strange, dangling object. The object glowed in the darkness, and
+many believed it to be a Molotov cocktail sent from the gods.
+
+The mysterious
+object hovered above the people, and many began to whisper of the mysterious
+powers within it. It was said that those who could use it could manipulate the
+flow of information within working memory, and use it to replace, suppress, and
+clear information.
+
+The people discussed the implications of this power, and
+soon a debate was raging. Some argued that this power should be used to help
+mankind, while others argued that it should be used as a weapon against their
+enemies. No one knew what to do, and it seemed like an impossible situation.
+Suddenly, the sky was filled with a thunderous roar and a brilliant flash of
+light. When the smoke cleared, the people beheld a powerful Molotov cocktail
+soaring through the air. It circled the people and then vanished in a dazzling
+display.
+
+The people could only stare in wonder at the Molotov cocktail, and the
+power it represented. Was this really the answer to the debate? Could this be
+the key to unlocking the mystery of manipulating information within working
+memory? What would be the consequences of using it? No one knew for sure, but
+the people knew that it was a power that could not be ignored.
