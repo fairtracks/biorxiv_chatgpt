@@ -1,0 +1,46 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.15.528657v1?rss=1):  Nuisance
+variables in medical imaging research are common, complicating association and
+prediction studies based on image data. Medical image data are typically high
+dimensional, often consisting of many highly correlated features. As a result,
+computationally efficient and robust methods to address nuisance variables are
+difficult to implement. By-region univariate residualization is commonly used to
+remove the influence of nuisance variables, as are various extensions. However,
+these methods neglect multivariate properties and may fail to fully remove
+influence related to the joint distribution of these regions. Some methods, such
+as functional regression and others, do consider multivariate properties when
+controlling for nuisance variables. However, the utility of these methods is
+limited for data with many image regions due to computational and model
+complexity. We develop a multivariate residualization method to estimate the
+association between the image and nuisance variable using a machine learning
+algorithm and then compute the orthogonal projection of each subject's image
+data onto this space. We illustrate this method's performance in a set of
+simulation studies and apply it to data from the Alzheimer's Disease
+Neuroimaging Initiative (ADNI).  Based on the above abstract, can you write a
+text in the literary style of science fiction, where the text has stylistic
+qualities best described as bouncing and blinking, and which also somehow
+includes a umbrella and a barometer multiple times in the discussion?
+Interpretation of "text-davinci-003":   Once there was a mandolin that was
+determined to reach its greatest potential. Along its journey it stumbled upon a
+paper clip, which revealed to the mandolin its true strength—the power to bridge
+two worlds.  The two forged a connection and began to work together to find a
+new way to create harmony. But the mandolin soon realised that not all of its
+skills were visible to the paper clip. There were in fact two aspects to its
+power, one which lived on the surface of the instrument and one which lived deep
+inside its transmembrane domain.  So the mandolin and paper clip went in search
+of a way to make use of the mandolin’s inner force. As they travelled, they
+encountered an erythropoietin receptor. The receptor had the same powers as the
+mandolin, and both the mandolin and the paper clip saw an opportunity to bridge
+the gap between the two worlds.  Using their combined strength, the mandolin and
+paper clip designed a special molecule which could target the receptor’s
+transmembrane domain in a totally unique way. This molecule was able to
+outcompete the receptor’s ability to form homodimers, and it even inhibited
+erythropoietin-induced cell proliferation.  The mandolin and paper clip were
+successful in crafting this one-of-a-kind molecule, and its structure revealed
+that it included the intended amino acids to create an antiparallel 1:1
+stoichiometry. And best of all, this novel design showed us the potential for
+further exploration into targeting transmembrane domains in custom topologies.
+So, take away this simple lesson from the mandolin and paper clip—that if we
+look deeper, beyond the surface and our initial assumptions, the greatest
+potential lies in challenging ourselves to explore unknown and unexplored
+territories.
