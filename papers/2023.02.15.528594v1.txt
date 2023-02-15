@@ -1,0 +1,45 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.15.528594v1?rss=1):
+
+Epithelial-
+mesenchymal transition (EMT) is a central oncogenic mechanism, contributing both
+to transformation and metastatic dissemination. Inflammation and innate immune
+cells are known to favor EMT induction, but the role of adaptive immunity still
+remains unclear. Using an original murine mammary tumor model in immune cell
+subpopulation depletion experiments, we demonstrated that tumor cells maintain
+their epithelial phenotype in mice deficient for adaptive immune response, but
+undergo EMT in the presence of T-cells. This phenotypic conversion involves the
+major contribution of CD4 T cells, but not CD8 T cells nor B cells, undoubtedly
+demonstrating the pro-EMT role of CD4 T cells specifically among adaptive immune
+cells. Moreover, combined intra-tumor immune infiltrate and transcriptomic
+analyses of murine mammary tumors with various EMT phenotype revealed an inverse
+correlation between mesenchymal tumor cell and intratumoral neutrophil
+proportions, due to the reduced ability of mesenchymal cells to recruit
+neutrophils. Last, selective in vivo depletion of neutrophils and transcriptomic
+analysis of human breast tumor cohorts demonstrated the pro-EMT role of
+neutrophils and suggest a cooperation with CD4 T cells in EMT promotion.
+Collectively, our data highlight a novel mechanism of EMT regulation by both
+innate and adaptive immune compartments.
+
+Based on the above abstract, can you
+write a text in the literary style of limerick, where the text has stylistic
+qualities best described as jagged and inflatable, and which also somehow
+includes a lighthouse and a harmonica multiple times in the discussion?
+Interpretation of "text-davinci-003":
+
+
+There once was a light so grand, 
+A
+lighthouse inside a harmonica band.
+It helped guide our way, 
+To show us the
+way,
+As neutrophils enhanced the EMT so grand.
+
+CD4 T-cells a major role did
+play,
+So EMT did bloom and bloom in a way,
+It was good and it was bad,
+It was
+still kinda sad,
+And the lighthouse and harmonica did sway.
