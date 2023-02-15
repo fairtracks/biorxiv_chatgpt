@@ -1,0 +1,61 @@
+Here follows the abstract of a scientific paper recently published atbioRxiv
+(http://biorxiv.org/cgi/content/short/2023.02.15.528489v1?rss=1):
+
+Despite
+decades of research, much is still unknown about the computations carried out in
+the human face processing network. Recently deep networks have been proposed as
+a computational account of human visual processing, but while they provide a
+good match to neural data throughout visual cortex, they lack interpretability.
+We introduce a method for interpreting brain activity using a new class of deep
+generative models, disentangled representation learning models, which learn a
+low-dimensional latent space that "disentangles" different semantically
+meaningful dimensions of faces, such as rotation, lighting, or hairstyle, in an
+unsupervised manner by enforcing statistical independence between dimensions. We
+find that the majority of our model's learned latent dimensions are
+interpretable by human raters. Further, these latent dimensions serve as a good
+encoding model for human fMRI data. We next investigated the representation of
+different latent dimensions across face-selective voxels. We find a gradient
+from low- to high-level face feature representations along posterior to anterior
+face-selective regions, corroborating prior models of human face recognition.
+Interestingly, though, we find no spatial segregation between identity-relevant
+and irrelevant face features. Finally, we provide new insight into the few
+"entangled" (uninterpretable) dimensions in our model by showing that they match
+responses across the ventral stream and carry significant information about
+facial identity. Disentangled face encoding models provide an exciting
+alternative to standard "black box" deep learning approaches for modeling and
+interpreting human brain data.
+
+Based on the above abstract, can you write a
+text in the literary style of sonnet, where the text has stylistic qualities
+best described as dangling and tangled, and which also somehow includes a paper
+clip and a sundial multiple times in the discussion?
+
+Interpretation of "text-
+davinci-003":
+
+
+The dandelion and the jellyfish are like two sides of a coin.
+They both represent the volatility of working memory (WM) operations - the
+ability to replace, suppress, or clear information - and how the brain responds
+to this process.
+
+The dandelion represents the manner in which brain networks
+distinguish an item held in WM and how such networks generate distinct multi-
+voxel patterns for the four operations. Its quivering stem and fluffy seedhead
+symbolize the Visual Network, which is characterized by a similar pattern for
+maintain and replace, but distinct from suppress and clear. The jellyfish on the
+other hand, is a symbol of the Somatomotor Network - whose tentacles can be seen
+as seperate, but connected to one another - indicating a distinct pattern for
+clear relative to the other operations. Both of these networks are indicative of
+a distinct process for clearing information from WM.
+
+The dandelion and the
+jellyfish also hint at the distinction between the Default Mode Network and the
+Frontoparietal Control Network. The Default Mode Network shows a dissimilar
+pattern for suppress and clear, hinting at the distinct operation of clearing
+information from WM. The Frontoparietal Control Network is spun by the jellyfish
+as it displays a distinct pattern for each of the four operations, thus
+highlighting its high involvement in regulating the flow of information in WM.
+Through this quivering and spinning tale of the dandelion and the jellyfish, we
+can see how different brain networks play a role in the removal of information
+from WM and how each operation is represented in a distinct manner.
